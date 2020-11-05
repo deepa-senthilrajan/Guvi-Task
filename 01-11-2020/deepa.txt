@@ -1,2 +1,5 @@
     How do you copy by value a composite data type? - https://deepa-senthilrajanen.medium.com/how-do-you-copy-by-value-a-composite-data-type-a09abc2273d1
-    Difference between HTTP1.1 vs HTTP2 - 
+    Difference between HTTP1.1 vs HTTP2 - https://deepa-senthilrajanen.medium.com/difference-between-http1-1-vs-http2-d6561ca2c974
+    why there is a difference in behavior for copying contents in primitive and non primitive type? - https://deepa-senthilrajanen.medium.com/why-there-is-a-difference-in-behavior-for-copying-contents-in-primitive-and-non-primitive-type-49124112c663
+objects and its internal representation in Javascript - https://deepa-senthilrajanen.medium.com/why-there-is-a-difference-in-behavior-for-copying-contents-in-primitive-and-non-primitive-type-49124112c663
+ What is the difference between window, screen, and document in Javascript?  - https://deepa-senthilrajanen.medium.com/why-there-is-a-difference-in-behavior-for-copying-contents-in-primitive-and-non-primitive-type-49124112c663
