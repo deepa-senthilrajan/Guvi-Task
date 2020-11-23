@@ -20,3 +20,33 @@ const popnames = popitems.map((item)=>{
 })
 
 console.log(popnames)
+
+//Print the following details name, capital, flag using forEach function
+
+countries.forEach((item)=>{
+    console.log(item.name,item.capital,item.flag)
+})
+
+// Print the total population of countries using reduce function
+
+const total = countries.reduce((currenttotal, item)=>{
+    return item.population+currenttotal
+})
+console.log(total)
+
+// Print the total population of countries in Asia continent using reduce and filter function
+
+
+const filtereditems1 = countries.filter((item)=>{
+    return item.region = 'asia'
+})
+
+const total1 = filtereditems1.reduce((currenttotal, item)=>{
+    return item.population+currenttotal
+})
+console.log(total1)
+
+// Print the country which use US Dollars as currency. 
+
+
+
