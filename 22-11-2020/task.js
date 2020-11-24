@@ -48,5 +48,12 @@ console.log(total1)
 
 // Print the country which use US Dollars as currency. 
 
+const result1 = restCountries.filter((item)=>{
+    return item.currencies[0].code === "USD"
+})
 
+result1.forEach((item)=>{
+    console.log(item.name)
+})
 
+// Add error handling to the xml http request code
